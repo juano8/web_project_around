@@ -25,9 +25,6 @@ Este proyecto fue desarrollado como práctica de **HTML, CSS y JavaScript**, sig
 
 ---
 
-## 🚀 Cómo usar el proyecto
+## 🚀 Cómo ver el proyecto
 
-1. Clonar el repositorio:
-   ```bash
-   git clone https://github.com/tu-usuario/tu-repo.git
-   ```
+1. link a GitHub pages: https://juano8.github.io/web_project_around/
